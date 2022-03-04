@@ -1,0 +1,2 @@
+# Sign_language_recognition
+Problem Statement Conversing with a person having hearing disability is always a major challenge. Deaf and Mute people uses hand gesture sign language to communicate, But the Normal people face problems in understanding their sign language so that they can communicate. Hence there is a need of the system which recognize the different signs and convey the information to normal people.
